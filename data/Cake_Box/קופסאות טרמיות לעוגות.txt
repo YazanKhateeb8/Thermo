@@ -1,0 +1,64 @@
+id: 12253
+name: FRAME THERMOBOX CAKE
+price: 29.45
+rating : 0 
+quantity: 10
+sold: 0
+size: 410x410x140mm
+description:
+Piece by piece into the height - with system! Especially designed for transporting wedding cakes or pizza cartons up to a size of 350 x 350 mm. These individual frame elements made of EPP measure 105 mm internal height and allow easy adjustments.
+The frame can be combined with base part no. 12263, lid no. 12093, cooling top no. 12083, TOP-Box no. 12073 or Cool Pack -12°C with no. 70368.
+
+
+id: 12263
+name: BOTTOM PLATE CAKE
+price: 43.44 
+rating : 0 
+quantity: 5
+sold: 0
+size: 410x410x55mm
+description:
+This extremely robust base plate made of EPP with basic dimensions of 350 x 350 mm and an internal height of 55 mm forms the basis and is a solid base for cake sets from THERMO FUTURE BOX. The surface is waterproof and easy to clean.
+It is comfortable to carry on all 4 sides and guarantees safe handling when placing the cake.
+
+id: 12073
+name: TOP PLATE CAKE
+price: 30.88 
+rating : 0 
+quantity: 5
+sold: 0
+size: 410x410x140mm
+description:
+This TOP BOX is a supplement for pizza or cake boxes with usable size 35 x 35 cm, inside height is 9,5 cm. The TOP is simply placed between the box or frame and the lid, creating an extra compartment for goods that need to be stored separately from the rest of the contents, e.g. salad, bottles or decorations for cakes. Also ideal for separating food "hot & cold". Made of EPP.
+
+id: 12083
+name: COOLING ATTACHMENT CAKE
+price: 35.40
+rating : 0 
+quantity: 10
+sold: 0
+size: 410x410x140mm
+description:
+Cool packs should be placed in the upper part of a box, as cold air always falls down and heat goes up. Cooling top made of EPP is simply placed between the bottom part and the lid of the box to carry the cool pack. Cold temperature can fell down through the special holes of the cooling  top. Cool pack will not touch or put pressure on the products which are inside Thermo Future Box.
+
+id: 90057
+name: WEDDING CAKE SET COOL
+price: 395.00
+rating : 0 
+quantity: 10
+sold: 0
+size: 595x595x525mm
+description:
+Your latest cake creation must arrive safely at the customer. Use the wedding cake kit "COOL" from THERMO FUTURE BOX made of EPP. Thanks to large recessed grips on the base plate, the box is easy to carry, even if it is carried by two people, if necessary. You can find the matching transport dolly in our accessories shop. The wedding set "COOL" consists of
+Robust base plate: it can be easily cleaned, even in the dishwasher. Of course it is also waterproof. It has no edges and is flat so that you can place the cake safely on it. It also has two large recessed grips to prevent it from tipping over when transported by two people.
+Comes With 4 Frame parts, Cooling attachment, Cooling pack, Lid
+
+id: 11333
+name: THERMOBOX CAKE
+price: 29.99
+rating : 0 
+quantity: 10
+sold: 0
+size: 415x415x280mm
+description:
+Extremely robust base plate with extra high cover of 175 mm. Cake box with internal dimensions of 350 x 350 mm is the ideal storage place for your cakes. Thanks to the robust material EPP, nothing happens to the precious contents and the box can easily withstand rough handling. It is comfortable to carry and is equipped with a secure lock so that you can stack several cake boxes on top of each other. You can also fix it on top of Euro stacking PE/PP duroplastic containers.

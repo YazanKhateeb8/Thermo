@@ -1,0 +1,168 @@
+id: 10363
+name: Pizza Box GN 2/3
+price: 38.68
+rating: 0 
+quantity: 10
+sold: 0
+size: 415x400x265mm
+description:
+PIZZA BOXER is the logistical masterpiece for transportation and insulation of an optimized square size for pizza or cake cartons! It is also possible to insert Gastronorm 2/3 containers or any hot, cold, fresh or temperature-sensitive products. Volume of this Thermobox is 27 l.
+PIZZA BOXER of Thermo Future Box is made of durable and sturdy EPP. This material is dishwasher-proof and has excellent insulation attitudes from  -40° to +120 °C
+
+
+id: 10355
+name: Front Loader 69L
+price: 201.11
+rating: 0 
+quantity: 5
+sold: 0
+size: 660x450x490mm
+description:
+Transportation and insulation box made of EPP with a volume of 69 litres for the front loading of several gastronorm containers (1/1, 1/2, 1/3) and cool pack or hot pack.
+9 guide rails with a distance of 38 mm each
+durable and lightweight with 2,7 kg, robust made of EPP
+handy grip edges, tightly arranged with solid and handy fastener
+hinged door, removable
+stackable
+
+
+id: 10355
+name: Front Loader 93L DIGITAL
+price: 391.51
+rating: 0 
+quantity: 5
+sold: 0
+size: 645x445x625mm
+description:
+Transportation and insulation box made of EPP WITH DIGITAL THERMOMETER and a volume of 93 litres for the front loading of several gastronorm containers (1/1, 1/2, 1/3) and Cool Pack or Hot Pack
+solid stainless steel fasteners
+12 inserts rails with a distance of 32 mm each
+durable and lightweight with 4,0 kg, robust made of EPP
+handy grip edges on all 4 sides
+hinged door, removable and 270 °C pivotable
+solid one-piece construction
+stackable even with Euronorm dolly 70280
+
+
+id: 10163
+name: Drinks To Go 2/3
+price: 11.84
+rating: 0 
+quantity: 5
+sold: 0
+size: 335x117x135mm
+description:
+Safe transportation AND insulation of beverages, yoghurt, fruit, cups or more. "DRINKS TO GO" is a click-to-connect system which is expandable from 1 piece for 3 cups up to 5 pieces and 15 cups for  Box GN 1/1, 2 pieces with 6 cups for Box GN 1/2 or 3 pieces with 9 cups for Box Pizza (item nos. 12023 to 12063). Upper inner diameter is  88 mm and 69 mm at the bottom. Freely expandable and easy to click and connect.
+
+id: 10743
+name: Gastronorm 1/1 Comfort
+price: 93.42
+rating: 0 
+quantity: 10
+sold: 0
+size: 610x430x365mm
+description:
+EPP Box with MORE COMFORT for loading and unloading GN containers of all sizes. Differently positioned, large interior recesses on both long sides offer more sufficient space for the hands.
+Thermobox Gastronorm 1/1 KOMFORT is stackable and even stackable mit duroplastic containers with outside dimensions of 60 x 40 cm. On each short side you will have areas to insert labelcards to mark the contents of the box from outside. 
+
+id: 12320
+name: Carry Box
+price: 82.71
+rating: 0 
+quantity: 5
+sold: 0
+size: 350 x 350 x 200 mm
+description:
+The special Thermo Future Box "CARRY" is made of robust, durable and lightweight EPP with 2,4 kg.
+inside dimensions can vary from 35 x 35 cm with EPP side parts with a capacity of 24 l to 35 x 39 (width) cm without them and a capacity of 27 l.
+you can use at maximum each 4 Cool Packs So you can Keep your products hot or cold for at least 3 hours.
+
+id: 10703
+name: Box EuroNorm 2/1
+price: 154.11
+rating: 0 
+quantity: 7
+sold: 0
+size: 800x600x330mm
+description:
+Box Euronorm 2/1 is perfect for transporting and insulating EPP boxes with Euronorm dimensions. This box is space-saving and stackable with THERMO FUTURE BOX GN 1/1 or EN 1/2. It has external dimensions of 60 x 80 cm (Euronorm 2/1), so two pieces fit perfectly next to each other on a Euro pallet. Box has a capacity of 97 l and two extra large ergonomic handles for easy carrying of that big size box.
+
+id: 10053
+name: GN Premium 1/1
+price: 58.25
+rating: 0 
+quantity: 10
+sold: 0
+size: 600x400x320mm 
+description:
+Thermo Future Box GN 1/1 Premium has a capacity of 46l , made in EPP-black. Recessed grips on the long sides offer sufficient space for removing hot or heavy GN containers. Handy recessed grips, tight-fitting lid and marking fields for the label system. Can be used flexible and in combination with other accessories such as a cooling top, cooling lid or cool pack.
+
+id: 10563
+name: GN Premium Plus 1/1
+price: 82.71
+rating: 0 
+quantity: 5
+sold: 0
+size: 600x400x410mm
+description:
+This Thermo Future Box GN 1/1 made of EPP is the Premium PLUS version of a 60 x 40 cm outside box with a special waterproof, non leaking surface. Surface has a high thermal stability from - 40 to + 120 °C, is dishwasher-proof and extremely sturdy.
+Recessed grips inside on the long sides allow an easy removal of hot or heavy GN containers. Ergonomic recessed handles, the tight-fitting lid and marking fields outside for the label system stand for many different applications.
+
+id: 10133
+name: Salto GN 1/1
+price: 43.97
+rating: 0 
+quantity: 8
+sold: 0
+size: 600x400x165mm
+description:
+SALTO is the name of the clever stacking system of THERMO FUTURE BOX. All flat containers such as cold plates, flat GN pans, baking tins, pizza or cakes are perfectly packed and well insulated during transport.
+Each individual SALTO box can be used flexibly as base or lid. You can build up a tower piece by piece as required. The pieces are easily stackable and each level is closed separately. The SALTO system thus offers a space-saving and cost-effective alternative to transport in frontloaders.
+
+
+id: 13773
+name: Big Box
+price: 88.66
+rating: 0 
+quantity: 10
+sold: 0
+size: 610x430x365mm
+description:
+Thermo Future Box MENU 6 made of durable and lightweight EPP is accurately fitting for transporting and insulating disposable or re-usable menu trays with a basic size of 18 x 18 cm. Suitable for 6 square trays with the format of 18 x 18 cm per layer.
+Lid of Thermobox MENU 6 is hermetically closing which stands for excellent insulation attitudes. Box is stackable.
+
+
+id: 12623
+name: AllRound 60/40
+price: 63.67
+rating: 0 
+quantity: 5
+sold: 0
+size: 685x458x180mm
+descreption:
+Thermo Future Box ALLROUND 60/40 made of EPP is perfect for duroplastic stacking containers, baking trays or trays with the external dimensions 60 x 40 cm.
+On the outside, the box has proven ergonomic recessed handles for comfortable carrying, especially of heavy loads. Interior access slots on the long sides improve handling and ensure fast loading and unloading.
+
+
+id: 11163
+name: EuroNorm 1/2
+price: 41.59
+rating: 0 
+quantity: 10
+sold: 0
+size: 337x167x538mm
+descreption:
+The small transportation and insulation box made of EPP in Euronorm size EN 1/2 (40 x 30 cm) is perfectly stackable and combinable with Euro size 60 x 40 cm. Well suited for small containers or food packages for delivery services. Outside with ergonomic EPP handles for easy carrying and marking fields for the labelcard system. Tightly closing lid provides excellent insulation from -40 to + 120 °C.
+
+
+id: 10033
+name: Gastronorm 1/1 30L
+price: 53.25
+rating : 0 
+quantity: 5
+sold: 0
+size: 600x400x230mm
+descreption:
+Thermo Future Box GN 1/1 Premium is made of EPP. The box has a density of 55 - 60 g/L.
+Recessed grips on both long sides offer sufficient space for removing hot or heavy GN containers. Handy recessed grips, tight-fitting lid and marking fields for the label system. Can be used flexible and combined with other accessories such as cooling top, cooling lid or cool pack
+

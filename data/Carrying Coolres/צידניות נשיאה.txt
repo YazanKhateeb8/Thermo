@@ -1,0 +1,44 @@
+id: 11273
+name:  SHOPPING BOX 33L
+price: 58.91
+rating: 0 
+quantity: 6
+sold: 0
+size: 430x340x395mm 
+description:
+Shopping Box has a practical plastic strap and is perfect for camping, leisure or shopping. Salad bowls, cold drinks or hot food - with a volume of 33 liter you have enough space to transport delicious food or drinks.
+Shopping Box has a water tight surface and can easily transport crushed ice, ice cubes or cool packs without leaking. With an inside height of 33 cm this box is suitable for high bottles. Basic size is GN 1/2. This box is made of EPP and lightweight, very durable and with best insulation attitudes from - 40 to + 120 °C - everything stays well insulated.
+
+
+
+
+
+id: 11221
+name: PERSONAL BOX 15L
+price: 47.01
+rating : 0 
+quantity: 10
+sold: 0
+size: 330x270x330mm 
+description:
+Our smallest shopping box with practical carrying handle is perfect for leisure, camping or shopping. Salads, cool drinks or hot food - with a volume of 15 litres, there's enough space for delicious food and drinks on the go. And LUI keeps everything hot or cold or fresh, just as you like.
+The small shopping box is waterproof and easily transports ice cubes, cold packs or crushed ice. The box made of EPP is light and robust, whether hot or cold, everything remains well insulated from -40°C to +120°C.
+
+
+
+
+id: 11255
+name : COUPLE BOX 20L
+price: 47.30
+rating : 0 
+quantity: 0
+sold: 0
+size: 360x285x365mm
+description:
+Shopping Box has a practical plastic strap and is perfect for camping, leisure or shopping. Salad bowls, cold drinks or hot food - with a volume of 20 liter you have enough space to transport delicious food or drinks.
+Shopping Box has a water tight surface and can easily transport crushed ice, ice cubes or cool packs without leaking. With an inside height of 31 cm this box is suitable for high bottles. Basic size is GN 1/4. This box is made of EPP and lightweight, very durable and with best insulation attitudes from - 40 to + 120 °C - everything stays well insulated.
+
+
+
+
+

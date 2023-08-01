@@ -1,0 +1,69 @@
+id: 13043
+name: TAKE AWAY DINNER BOX
+price: 38.68
+rating: 0 
+quantity: 10
+sold: 0
+size: 510x365x145mm
+description:
+Thermo Future Box TAKE AWAY DINNER made of robust and durable EPP has enough space to carry a complete menu with two rectangular trays size 18 x 18 cm. This box is equipped with two separate climate compartments 18 x 18 cm to separate "hot & cold". Trays can not slipped in this box due to implementations. Furthermore you will have some more space inside Box TAKE AWAY DINNER for beverages, fruits or cutlery.
+
+
+id: 13663
+name: BOX MINI MENU 7L
+price: 27.31
+rating: 0 
+quantity: 5
+sold: 0
+size: 305X255X190mm 
+description:
+The small Thermo Future Box MINI MENU made of EPP is suitable for transporting individual meals in square menu plates.
+
+
+
+id: 14030
+name: THERMOBOX DINNER
+price: 52.96
+rating : 0 
+quantity: 10
+sold: 0
+size: 400X290X138mm
+description:
+Thermo Future Box DINNER - transport and insulation box made of grey EPP for a complete menu, it can be used for 1x rectangular menu tray plus 2x side bowls with a volume of 300 ml each. Suitable for disposable and re-usable systems. With separate climate chambers for "hot & cold". Tightly closing lid, stackable.
+
+
+
+
+
+id: 14060
+name: THERMOBOX PLATTER
+price: 49.39
+rating: 0 
+quantity: 5
+sold: 0
+size: 320x320x105mm
+description:
+It is made of robust, well insulating EPP in grey color and keeps the temperature of food constant. It is designed on the inside so that a round plate fits exactly into the box.The inside of the box is specially shaped to accommodate different plate formats up to a maximum diameter of 275 mm. There are also large recesses so that you can easily remove the plate.
+
+
+id: 14070
+name: THERMOBOX PLATTER +4
+price: 70.81
+rating: 0 
+quantity: 8
+sold: 0
+size: 620x340x175mm
+description:
+It is made of robust, well insulating EPP in grey color and keeps the temperature of food constant. It is designed on the inside so that a round plate fits exactly into the box.The PLATTER+4 box for up to 4 round plates is shaped on the inside so that different plate formats up to a maximum diameter of 275 mm can fit inside without slipping. There is enough space inside to safely insert and remove the plates.
+
+
+id: 14080
+name: THERMOBOX DINNER +2 
+price: 75.57
+rating: 0 
+quantity: 0
+sold: 0
+size: 440x370x120mm
+description:
+Thermo Future Box DINNER +2 made of easy-care EPP in blue is perfect for the transport of complete menus. Either a rectangular menu tray or a round plate and two side dishes with 300 ml each will fit inside.
+Box Dinner +2 is equipped with two separate climate zones to separate "hot & cold". Lid is tightly closing for excellent insulation attitudes. On the outside there are fields for color marking. Box is easily to stack, several boxes can be safely transported as a bundle without slipping.

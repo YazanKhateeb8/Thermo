@@ -1,0 +1,21 @@
+id: 12340
+name: PIZZA FRONTLOADER
+price: 355.81
+rating: 0 
+quantity: 5
+sold: 0
+size: 550x520x600
+description:
+The sturdy pizza frontloader from Thermo Future Box is perfect for your pizza delivery service by scooter or e-bike. Hot pizza, fresh salad or cold drinks can be transported comfortably and safely in one box. To separate hot and cold food an adjustable EPP shelf is included to isolate the temperature ranges from each other. Additional shelves or smaller insulation boxes are available separately and find sufficient space in the large box with a volume of 85 l.
+The complete pizza frontloader is made of robust EPP, it behaves shock-absorbing in road traffic and insulates perfectly on long distances. A big advantage when transporting on two-wheeled vehicles is the low weight of the EPP box of only 4 kg.
+
+id: 12350
+name: PIZZA FRONTLOADER 100L
+price: 474.81
+rating: 0 
+quantity: 10
+sold: 0
+size: 600x580x570mm
+description:
+The sturdy pizza frontloader from Thermo Future Box is perfect for your pizza delivery service by scooter or e-bike. Hot pizza, fresh salad or cold drinks can be transported comfortably and safely in one box. To separate hot and cold food an adjustable EPP shelf is included to isolate the temperature ranges from each other. Additional shelves or smaller insulation boxes are available separately and find sufficient space in the large box with a volume of 100 l.
+The complete pizza frontloader is made of robust EPP, it behaves shock-absorbing in road traffic and insulates perfectly on long distances. A big advantage when transporting on two-wheeled vehicles is the low weight of the EPP box of only 4.6 kg.
